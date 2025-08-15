@@ -8,7 +8,7 @@ export function FloatingActions() {
   const rawPhone = "0766885958" // ZA local
   const telPhone = "+27" + rawPhone.replace(/^0/, "") // +27766885958
   const whatsappPhone = telPhone.replace(/^\+/, "") // 27766885958 for wa.me
-  const whatsappMessage = encodeURIComponent("Hi Zulu Pools! I'd like a quote for a pool project.")
+  const whatsappMessage = encodeURIComponent("Hi Zulu Pool's Builder! I'd like a quote for a pool project.")
 
   return (
     <>

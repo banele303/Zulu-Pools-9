@@ -41,7 +41,7 @@ export function Header() {
           <div className="flex items-center space-x-3">
             <Image
               src="/images/zulu-pools.png"
-              alt="Zulu Pools Builders"
+              alt="Zulu Pool's Builder"
               width={160}
               height={48}
               className="h-12 md:h-18 w-auto rounded-lg"

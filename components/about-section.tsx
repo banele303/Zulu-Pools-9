@@ -44,13 +44,13 @@ export function AboutSection() {
           viewport={{ once: true }}
         >
           <Badge variant="outline" className="mb-4 text-cyan-600 border-cyan-600">
-            About Zulu Pools Builders
+            About Zulu Pool's Builder
           </Badge>
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-gray-900 mb-6">
             Building Dreams, Creating Memories
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            For over a decade, Zulu Pools Builders has been the trusted name in premium pool construction and
+            For over a decade, Zulu Pool's Builder has been the trusted name in premium pool construction and
             maintenance across Pretoria and surrounding areas.
           </p>
         </motion.div>
@@ -67,7 +67,7 @@ export function AboutSection() {
 
             <div className="space-y-6 mb-8">
               <p className="text-gray-600 leading-relaxed">
-                At Zulu Pools Builders, we understand that a swimming pool is more than just a water feature – it's the
+                At Zulu Pool's Builder, we understand that a swimming pool is more than just a water feature – it's the
                 centerpiece of your outdoor lifestyle, a place where memories are made and families come together to
                 relax and enjoy life.
               </p>
@@ -114,7 +114,7 @@ export function AboutSection() {
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img
                 src="/images/pool-building2.jpg"
-                alt="Zulu Pools team at work"
+                alt="Zulu Pool's Builder team at work"
                 className="w-full h-96 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />

@@ -53,13 +53,13 @@ export function Footer() {
               <div className="flex items-center space-x-3">
                 <Image
                   src="/images/zulu-pools.png"
-                  alt="Zulu Pools Builders"
+                  alt="Zulu Pool's Builder"
                   width={120}
                   height={36}
                   className="h-9 w-auto"
                 />
                 <div>
-                  <h3 className="font-serif text-2xl font-bold text-cyan-400">Zulu Pulus 9</h3>
+                  <h3 className="font-serif text-2xl font-bold text-cyan-400">Zulu Pool's Builder</h3>
                   <p className="text-gray-400">Builders</p>
                 </div>
               </div>
@@ -147,7 +147,7 @@ export function Footer() {
                   <div className="flex items-center space-x-3">
                     <Mail className="w-5 h-5 text-cyan-400 flex-shrink-0" />
                     <div>
-                      <p className="text-white font-medium">info@zulupoolsbuilders.co.za</p>
+                      <p className="text-white font-medium">info@zulupool9.co.za</p>
                       <p className="text-gray-400 text-sm">24/7 Email Support</p>
                     </div>
                   </div>
@@ -180,7 +180,7 @@ export function Footer() {
                       href="https://www.facebook.com/p/Zulu-pools-100075909987098/"
                       target="_blank"
                       rel="noopener noreferrer"
-                      aria-label="Open Zulu Pools Facebook page"
+                      aria-label="Open Zulu Pool's Builder Facebook page"
                     >
                       <Facebook className="w-4 h-4" />
                     </a>
@@ -210,7 +210,7 @@ export function Footer() {
           <div className="container mx-auto px-4 py-6">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-center md:text-left">
-                <p className="text-gray-400 text-sm">© 2024 Zulu Pulus 9. All rights reserved.</p>
+                <p className="text-gray-400 text-sm">© 2024 Zulu Pool's Builder. All rights reserved.</p>
                 <p className="text-gray-500 text-xs mt-1">
                   Professional pool construction and maintenance services in Pretoria
                 </p>
