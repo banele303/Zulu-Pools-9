@@ -31,7 +31,7 @@ export function Header() {
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-colors duration-300 bg-white/95 backdrop-blur-md shadow ${
         isScrolled
-          ? "lg:bg-white/95 lg:backdrop-blur-md lg:shadow-lg"
+          ? "lg:bg-white/95 lg:backdrop-blur-0 lg:shadow-lg"
           : "lg:bg-transparent lg:backdrop-blur-0 lg:shadow-none"
       }`}
     >
