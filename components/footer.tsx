@@ -59,7 +59,7 @@ export function Footer() {
                   className="h-9 w-auto"
                 />
                 <div>
-                  <h3 className="font-serif text-2xl font-bold text-cyan-400">Zulu Pools</h3>
+                  <h3 className="font-serif text-2xl font-bold text-cyan-400">Zulu Pulus 9</h3>
                   <p className="text-gray-400">Builders</p>
                 </div>
               </div>
@@ -210,7 +210,7 @@ export function Footer() {
           <div className="container mx-auto px-4 py-6">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-center md:text-left">
-                <p className="text-gray-400 text-sm">© 2024 Zulu Pools Builders. All rights reserved.</p>
+                <p className="text-gray-400 text-sm">© 2024 Zulu Pulus 9. All rights reserved.</p>
                 <p className="text-gray-500 text-xs mt-1">
                   Professional pool construction and maintenance services in Pretoria
                 </p>

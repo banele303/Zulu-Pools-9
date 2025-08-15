@@ -17,27 +17,27 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Zulu Pools Builders | Premium Pool Construction & Maintenance in Pretoria",
+  title: "Zulu Pulus 9 | Premium Pool Construction & Maintenance in Pretoria",
   description:
     "Professional pool construction, renovation, and maintenance services in Pretoria, Centurion, and surrounding areas. New pool installations, pool maintenance, renovations, lapas, and fish ponds. Contact us at 076 688 5958.",
   keywords:
     "pool construction, pool builders, pool maintenance, pool renovation, swimming pools, Pretoria pools, Centurion pools, pool installation, lapas, fish ponds, Akasia, Montana, Annlin",
-  authors: [{ name: "Zulu Pools Builders" }],
-  creator: "Zulu Pools Builders",
-  publisher: "Zulu Pools Builders",
+  authors: [{ name: "Zulu Pulus 9" }],
+  creator: "Zulu Pulus 9",
+  publisher: "Zulu Pulus 9",
   robots: "index, follow",
   openGraph: {
-    title: "Zulu Pools Builders | Premium Pool Construction & Maintenance",
+    title: "Zulu Pulus 9 | Premium Pool Construction & Maintenance",
     description:
       "Professional pool construction, renovation, and maintenance services in Pretoria and surrounding areas.",
     url: "https://www.zulupoools.co.za",
-    siteName: "Zulu Pools Builders",
+  siteName: "Zulu Pulus 9",
     images: [
       {
         url: "/images/zulu-pools.png",
         width: 1200,
         height: 630,
-        alt: "Zulu Pools Builders - Professional Pool Services",
+  alt: "Zulu Pulus 9 - Professional Pool Services",
       },
     ],
     locale: "en_ZA",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Zulu Pools Builders | Premium Pool Construction & Maintenance",
+    title: "Zulu Pulus 9 | Premium Pool Construction & Maintenance",
     description:
       "Professional pool construction, renovation, and maintenance services in Pretoria and surrounding areas.",
   images: ["/images/zulu-pools.png"],
